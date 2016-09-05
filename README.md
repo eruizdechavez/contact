@@ -39,7 +39,7 @@ mailgun:
 And update the values to match your preferences:
 
 - **emails** is an array of email addresses. This emails are the **ONLY** emails this server will be allowed to send emails to (authorized emails)
-- **mailgun.ulr** your Mailgun API URL
+- **mailgun.url** your Mailgun API URL
 - **mailgun.key** you Mailgun Domain API Key
 
 An example of a `config.yml` file:
