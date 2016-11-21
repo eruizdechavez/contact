@@ -34,6 +34,10 @@ var server = restify.createServer();
 server.use(restify.CORS());
 server.use(restify.bodyParser());
 
+server.get('/status', (req, res, next) => {
+  res.send('contact running');
+});
+
 server.post('/:_to', (req, res, next) => {
   const { formData, fields } = parseRequest(req);
 
