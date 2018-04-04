@@ -1,3 +1,4 @@
 node_modules
 development.yml
 production.yml
+vendor
