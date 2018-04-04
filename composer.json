@@ -1,0 +1,6 @@
+{
+    "require": {
+        "rmccue/requests": "^1.7",
+        "xamin/handlebars.php": "^0.10.4"
+    }
+}
