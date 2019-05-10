@@ -1,4 +1,5 @@
 node_modules
-development.yml
-production.yml
+local.json
+development.json
+production.json
 vendor

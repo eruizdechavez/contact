@@ -1,29 +1,29 @@
 {
-  "name": "contact",
-  "version": "1.0.1",
-  "description": "A basic clone of formspree.io for internal use",
-  "main": "index.js",
-  "homepage": "https://github.com/eruizdechavez/contact",
-  "bugs": "https://github.com/eruizdechavez/contact/issues",
-  "license": "MIT",
-  "author": {
-    "name": "Erick Ruiz de Chavez",
-    "email": "eruizdechavez@fastmail.com",
-    "url": "https://github.com/eruizdechavez"
-  },
-  "repository": "eruizdechavez/contact",
-  "engines": {
-    "node": ">=6.0.0"
-  },
-  "private": true,
-  "dependencies": {
-    "handlebars": "4.0.5",
-    "indecent": "1.0.1",
-    "lodash": "4.13.1",
-    "request": "2.72.0",
-    "restify": "4.1.1"
-  },
-  "devDependencies": {
-    "semistandard": "*"
-  }
+	"name": "contact",
+	"version": "1.0.1",
+	"description": "A basic clone of formspree.io for internal use",
+	"main": "index.js",
+	"homepage": "https://github.com/eruizdechavez/contact",
+	"bugs": "https://github.com/eruizdechavez/contact/issues",
+	"license": "MIT",
+	"author": {
+		"name": "Erick Ruiz de Chavez",
+		"email": "eruizdechavez@fastmail.com",
+		"url": "https://github.com/eruizdechavez"
+	},
+	"repository": "eruizdechavez/contact",
+	"engines": {
+		"node": ">=6.0.0"
+	},
+	"private": true,
+	"dependencies": {
+		"handlebars": "4.1.2",
+		"lodash": "4.17.11",
+		"request": "2.88.0",
+		"restify": "8.3.2",
+		"restify-cors-middleware": "1.1.1"
+	},
+	"devDependencies": {
+		"semistandard": "*"
+	}
 }
