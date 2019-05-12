@@ -1,6 +1,6 @@
 {
 	"name": "contact",
-	"version": "1.0.1",
+	"version": "2.0.0",
 	"description": "A basic clone of formspree.io for internal use",
 	"main": "index.js",
 	"homepage": "https://github.com/eruizdechavez/contact",
